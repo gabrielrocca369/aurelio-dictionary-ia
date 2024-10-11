@@ -1,0 +1,22 @@
+{
+    "en": {
+        "name": "English",
+        "code": "en-US",
+        "gtts_code": "en"
+    },
+    "pt": {
+        "name": "Português",
+        "code": "pt-BR",
+        "gtts_code": "pt"
+    },
+    "es": {
+        "name": "Español",
+        "code": "es-ES",
+        "gtts_code": "es"
+    },
+    "fr": {
+        "name": "Français",
+        "code": "fr-FR",
+        "gtts_code": "fr"
+    }
+}

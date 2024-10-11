@@ -1,0 +1,148 @@
+2024-09-22 22:17:24 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:17:24 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:17:24 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:17:24 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:17:24 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:17:24 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:17:24 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:18:44 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:44:10 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:44:10 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:44:10 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:44:10 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:44:10 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:44:10 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:44:10 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:44:24 - QAInterface - INFO - Buscando definição para a palavra: 'Banana' no idioma: 'en'
+2024-09-22 22:44:24 - QAInterface - ERROR - Erro ao processar a palavra 'Banana': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:44:32 - DictionaryManager - INFO - A palavra 'banana' não foi encontrada no idioma 'en'.
+2024-09-22 22:44:33 - QAInterface - INFO - Buscando definição automática para 'banana'.
+2024-09-22 22:44:33 - DictionaryManager - INFO - Buscando definição para a palavra 'banana' via API.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Palavra 'banana' adicionada ao idioma 'en' com sucesso.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922224434', 'data/language_data.json.backup.20240922224434'.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'banana'.
+2024-09-22 22:44:35 - QAInterface - INFO - Palavra 'banana' adicionada com sucesso via API.
+2024-09-22 22:44:40 - QAInterface - INFO - Buscando definição para a palavra: 'Banana' no idioma: 'en'
+2024-09-22 22:44:40 - QAInterface - ERROR - Erro ao processar a palavra 'Banana': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:44:44 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:44:49 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:44:49 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:44:49 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:44:49 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:44:49 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:44:49 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:44:49 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:44:54 - QAInterface - INFO - Buscando definição para a palavra: 'Banana' no idioma: 'en'
+2024-09-22 22:44:54 - QAInterface - ERROR - Erro ao processar a palavra 'Banana': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:45:09 - QAInterface - INFO - Exportando dicionário para 'C:/Users/GabrielRocca/Downloads/dictionary.csv' no idioma 'en'.
+2024-09-22 22:45:09 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 22:45:09 - TaskManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 22:45:10 - QAInterface - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 22:46:39 - QAInterface - INFO - Importando dicionário a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv' para o idioma 'en'.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922224639', 'data/language_data.json.backup.20240922224639'.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'. 1 palavras adicionadas, 0 palavras ignoradas.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após importação.
+2024-09-22 22:46:39 - TaskManager - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'.
+2024-09-22 22:46:43 - QAInterface - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'.
+2024-09-22 22:46:47 - QAInterface - INFO - Buscando definição para a palavra: 'orange' no idioma: 'en'
+2024-09-22 22:46:47 - QAInterface - ERROR - Erro ao processar a palavra 'orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:46:52 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 22:46:52 - QAInterface - ERROR - Erro ao processar a palavra 'Orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:46:56 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:47:00 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:47:00 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:47:00 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:47:00 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:47:00 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:47:00 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:47:00 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:47:05 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 22:47:05 - QAInterface - ERROR - Erro ao processar a palavra 'Orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:49:46 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 23:00:19 - root - INFO - Logging configurado com sucesso.
+2024-09-22 23:00:19 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 23:00:19 - Main - INFO - Icône carregado a partir de 'assets\logo_icon.ico'.
+2024-09-22 23:00:19 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 23:00:19 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 23:00:19 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:00:19 - TaskManager - INFO - TaskManager inicializado com sucesso.
+2024-09-22 23:00:28 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 23:00:28 - QAInterface - ERROR - Erro ao processar a palavra 'Orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:00:38 - QAInterface - INFO - Importando dicionário a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv' para o idioma 'en'.
+2024-09-22 23:00:38 - TaskManager - INFO - Importando dicionário a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'. Idioma: 'en'.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Palavra 'orange' já existe no idioma 'en'. Ignorada durante a importação.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922230038', 'data/language_data.json.backup.20240922230038'.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'. 0 palavras adicionadas, 1 palavras ignoradas.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após importação.
+2024-09-22 23:00:38 - TaskManager - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'.
+2024-09-22 23:00:39 - QAInterface - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'.
+2024-09-22 23:00:39 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 23:00:39 - QAInterface - ERROR - Erro ao processar a palavra 'Orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:00:46 - QAInterface - INFO - Buscando definição para a palavra: 'orange' no idioma: 'en'
+2024-09-22 23:00:46 - QAInterface - ERROR - Erro ao processar a palavra 'orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:00:55 - QAInterface - INFO - Buscando definição para a palavra: 'car' no idioma: 'en'
+2024-09-22 23:00:55 - QAInterface - ERROR - Erro ao processar a palavra 'car': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:00:59 - QAInterface - INFO - Buscando definição para a palavra: 'apple' no idioma: 'en'
+2024-09-22 23:00:59 - QAInterface - ERROR - Erro ao processar a palavra 'apple': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:01:04 - TaskManager - INFO - Tentando definir o idioma para 'pt'.
+2024-09-22 23:01:04 - DictionaryManager - INFO - Idioma atual definido para 'pt'.
+2024-09-22 23:01:04 - DefinitionModule - INFO - Idioma definido para 'pt'.
+2024-09-22 23:01:04 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:01:04 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-22 23:01:04 - TaskManager - INFO - Idioma definido para 'pt' com sucesso.
+2024-09-22 23:01:04 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-22 23:01:10 - QAInterface - INFO - Buscando definição para a palavra: 'maçã' no idioma: 'pt'
+2024-09-22 23:01:10 - QAInterface - ERROR - Erro ao processar a palavra 'maçã': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:01:14 - QAInterface - INFO - Buscando definição para a palavra: 'Maçã' no idioma: 'pt'
+2024-09-22 23:01:14 - QAInterface - ERROR - Erro ao processar a palavra 'Maçã': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:01:34 - QAInterface - INFO - Exportando dicionário para 'C:/Users/GabrielRocca/Downloads/dictionary.csv' no idioma 'pt'.
+2024-09-22 23:01:34 - TaskManager - INFO - Exportando dicionário para CSV. Idioma: 'pt'.
+2024-09-22 23:01:34 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:01:34 - TaskManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:01:35 - QAInterface - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:02:01 - QAInterface - INFO - Buscando definição para a palavra: 'Carro' no idioma: 'pt'
+2024-09-22 23:02:01 - QAInterface - ERROR - Erro ao processar a palavra 'Carro': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:03:26 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+Traceback (most recent call last):
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\main.py", line 8, in <module>
+    from core.task_manager import TaskManager
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\core\task_manager.py", line 7, in <module>
+    from core.speech_module import SpeechModule
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\core\speech_module.py", line 3, in <module>
+    import speech_recognition as sr
+ModuleNotFoundError: No module named 'speech_recognition'
+Traceback (most recent call last):
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\main.py", line 8, in <module>
+    from core.task_manager import TaskManager
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\core\task_manager.py", line 7, in <module>
+    from core.speech_module import SpeechModule
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\core\speech_module.py", line 4, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'
+Traceback (most recent call last):
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\main.py", line 8, in <module>
+    from .task_manager import TaskManager
+ImportError: attempted relative import with no known parent package
+Traceback (most recent call last):
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\main.py", line 8, in <module>
+    from core.task_manager import TaskManager
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\core\task_manager.py", line 7, in <module>
+    from .speech_module import SpeechModule
+  File "C:\Users\GabrielRocca\source\repos\project\qa_system_product\core\speech_module.py", line 4, in <module>
+    from gtts import gTTS
+ModuleNotFoundError: No module named 'gtts'

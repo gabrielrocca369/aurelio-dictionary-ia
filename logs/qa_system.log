@@ -1,0 +1,547 @@
+2024-09-22 21:05:28,531 - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 21:41:02 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 21:41:02 - DefinitionModule - INFO - Dicion�rio carregado com sucesso.
+2024-09-22 21:41:02 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 21:41:02 - DictionaryManager - INFO - Dados do dicion�rio e idiomas carregados com sucesso.
+2024-09-22 21:41:02 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 21:53:44 - root - INFO - Logging configurado com sucesso.
+2024-09-22 21:53:44 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 21:53:45 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 21:53:45 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 21:53:45 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 21:53:45 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 21:53:45 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 21:53:54 - QAInterface - INFO - Buscando definição para a palavra: 'Apple' no idioma: 'en'
+2024-09-22 21:53:54 - TaskManager - INFO - Processando a palavra: Apple no idioma en
+2024-09-22 21:53:54 - ConfidenceModule - INFO - Confiança calculada: 38.00% com 19 palavras.
+2024-09-22 21:53:54 - QAInterface - INFO - Definição e exemplo exibidos para 'Apple'.
+2024-09-22 21:54:00 - QAInterface - INFO - Buscando definição para a palavra: 'Grape' no idioma: 'en'
+2024-09-22 21:54:00 - TaskManager - INFO - Processando a palavra: Grape no idioma en
+2024-09-22 21:54:00 - TaskManager - WARNING - Palavra 'Grape' não encontrada no dicionário.
+2024-09-22 21:54:07 - DictionaryManager - INFO - A palavra 'grape' não foi encontrada no idioma 'en'.
+2024-09-22 21:54:09 - QAInterface - INFO - Buscando definição automática para 'grape'.
+2024-09-22 21:54:09 - DictionaryManager - INFO - Buscando definição para a palavra 'grape' via API.
+2024-09-22 21:54:10 - DictionaryManager - INFO - Palavra 'grape' adicionada ao idioma 'en' com sucesso.
+2024-09-22 21:54:10 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922215410', 'data/language_data.json.backup.20240922215410'.
+2024-09-22 21:54:10 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 21:54:10 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 21:54:10 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 21:54:10 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 21:54:11 - QAInterface - INFO - Palavra 'grape' adicionada com sucesso via API.
+2024-09-22 21:54:13 - QAInterface - INFO - Buscando definição para a palavra: 'Grape' no idioma: 'en'
+2024-09-22 21:54:13 - TaskManager - INFO - Processando a palavra: Grape no idioma en
+2024-09-22 21:54:13 - TaskManager - WARNING - Palavra 'Grape' não encontrada no dicionário.
+2024-09-22 21:54:17 - DefinitionModule - INFO - Idioma definido para pt.
+2024-09-22 21:54:17 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-22 21:54:17 - TaskManager - INFO - Idioma definido para pt.
+2024-09-22 21:54:17 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-22 21:54:22 - QAInterface - INFO - Buscando definição para a palavra: 'Maçã' no idioma: 'pt'
+2024-09-22 21:54:22 - TaskManager - INFO - Processando a palavra: Maçã no idioma pt
+2024-09-22 21:54:22 - ConfidenceModule - INFO - Confiança calculada: 40.00% com 20 palavras.
+2024-09-22 21:54:22 - QAInterface - INFO - Definição e exemplo exibidos para 'Maçã'.
+2024-09-22 21:54:25 - QAInterface - INFO - Iniciando consulta por voz.
+2024-09-22 21:54:26 - SpeechModule - INFO - Aguardando fala do usuário...
+2024-09-22 21:54:33 - SpeechModule - INFO - Fala reconhecida: maçã
+2024-09-22 21:54:33 - TaskManager - INFO - Processando a palavra: maçã no idioma pt
+2024-09-22 21:54:33 - ConfidenceModule - INFO - Confiança calculada: 40.00% com 20 palavras.
+2024-09-22 21:54:33 - SpeechModule - ERROR - Erro ao gerar ou reproduzir o áudio: [Errno 13] Permission denied: 'C:\\Users\\GABRIE~1\\AppData\\Local\\Temp\\tmpp8g3y7vw.mp3'
+2024-09-22 21:54:33 - QAInterface - ERROR - Erro na consulta por voz: wrong # args: should be ".!frame2.!scrolledtext insert index chars ?tagList chars tagList ...?"
+2024-09-22 21:54:38 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 21:58:55 - root - INFO - Logging configurado com sucesso.
+2024-09-22 21:58:55 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 21:58:55 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 21:58:55 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 21:58:55 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 21:58:55 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 21:58:55 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 21:59:11 - DefinitionModule - INFO - Idioma definido para en.
+2024-09-22 21:59:11 - SpeechModule - INFO - Idioma de voz definido para en.
+2024-09-22 21:59:11 - TaskManager - INFO - Idioma definido para en.
+2024-09-22 21:59:11 - QAInterface - INFO - Idioma alterado para 'en'.
+2024-09-22 21:59:16 - QAInterface - INFO - Buscando definição para a palavra: 'Maçã' no idioma: 'en'
+2024-09-22 21:59:16 - TaskManager - INFO - Processando a palavra: Maçã no idioma en
+2024-09-22 21:59:16 - TaskManager - WARNING - Palavra 'Maçã' não encontrada no dicionário.
+2024-09-22 21:59:24 - QAInterface - INFO - Buscando definição para a palavra: 'Apple' no idioma: 'en'
+2024-09-22 21:59:24 - TaskManager - INFO - Processando a palavra: Apple no idioma en
+2024-09-22 21:59:24 - ConfidenceModule - INFO - Confiança calculada: 38.00% com 19 palavras.
+2024-09-22 21:59:24 - QAInterface - INFO - Definição e exemplo exibidos para 'Apple'.
+2024-09-22 21:59:32 - DefinitionModule - INFO - Idioma definido para pt.
+2024-09-22 21:59:32 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-22 21:59:32 - TaskManager - INFO - Idioma definido para pt.
+2024-09-22 21:59:32 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-22 21:59:36 - QAInterface - INFO - Buscando definição para a palavra: 'Maçã' no idioma: 'pt'
+2024-09-22 21:59:36 - TaskManager - INFO - Processando a palavra: Maçã no idioma pt
+2024-09-22 21:59:36 - ConfidenceModule - INFO - Confiança calculada: 40.00% com 20 palavras.
+2024-09-22 21:59:36 - QAInterface - INFO - Definição e exemplo exibidos para 'Maçã'.
+2024-09-22 21:59:46 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:04:30 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:04:30 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:04:30 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:04:30 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:04:30 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:04:30 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:04:30 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:04:46 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:08:23 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:08:23 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:08:23 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:08:23 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:08:23 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:08:23 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:08:23 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:08:35 - QAInterface - INFO - Buscando definição para a palavra: 'apple' no idioma: 'en'
+2024-09-22 22:08:35 - TaskManager - INFO - Processando a palavra: apple no idioma en
+2024-09-22 22:08:35 - ConfidenceModule - INFO - Confiança calculada: 38.00% com 19 palavras.
+2024-09-22 22:08:35 - QAInterface - INFO - Definição e exemplo exibidos para 'apple'.
+2024-09-22 22:08:49 - QAInterface - INFO - Exportando dicionário para 'C:/Users/GabrielRocca/Downloads/dictionary.csv' no idioma 'en'.
+2024-09-22 22:08:49 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 22:08:51 - QAInterface - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 22:08:58 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:17:24 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:17:24 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:17:24 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:17:24 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:17:24 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:17:24 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:17:24 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:18:44 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:44:10 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:44:10 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:44:10 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:44:10 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:44:10 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:44:10 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:44:10 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:44:24 - QAInterface - INFO - Buscando definição para a palavra: 'Banana' no idioma: 'en'
+2024-09-22 22:44:24 - QAInterface - ERROR - Erro ao processar a palavra 'Banana': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:44:32 - DictionaryManager - INFO - A palavra 'banana' não foi encontrada no idioma 'en'.
+2024-09-22 22:44:33 - QAInterface - INFO - Buscando definição automática para 'banana'.
+2024-09-22 22:44:33 - DictionaryManager - INFO - Buscando definição para a palavra 'banana' via API.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Palavra 'banana' adicionada ao idioma 'en' com sucesso.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922224434', 'data/language_data.json.backup.20240922224434'.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-22 22:44:34 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'banana'.
+2024-09-22 22:44:35 - QAInterface - INFO - Palavra 'banana' adicionada com sucesso via API.
+2024-09-22 22:44:40 - QAInterface - INFO - Buscando definição para a palavra: 'Banana' no idioma: 'en'
+2024-09-22 22:44:40 - QAInterface - ERROR - Erro ao processar a palavra 'Banana': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:44:44 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:44:49 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:44:49 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:44:49 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:44:49 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:44:49 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:44:49 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:44:49 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:44:54 - QAInterface - INFO - Buscando definição para a palavra: 'Banana' no idioma: 'en'
+2024-09-22 22:44:54 - QAInterface - ERROR - Erro ao processar a palavra 'Banana': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:45:09 - QAInterface - INFO - Exportando dicionário para 'C:/Users/GabrielRocca/Downloads/dictionary.csv' no idioma 'en'.
+2024-09-22 22:45:09 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 22:45:09 - TaskManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 22:45:10 - QAInterface - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 22:46:39 - QAInterface - INFO - Importando dicionário a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv' para o idioma 'en'.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922224639', 'data/language_data.json.backup.20240922224639'.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'. 1 palavras adicionadas, 0 palavras ignoradas.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-22 22:46:39 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após importação.
+2024-09-22 22:46:39 - TaskManager - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'.
+2024-09-22 22:46:43 - QAInterface - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'.
+2024-09-22 22:46:47 - QAInterface - INFO - Buscando definição para a palavra: 'orange' no idioma: 'en'
+2024-09-22 22:46:47 - QAInterface - ERROR - Erro ao processar a palavra 'orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:46:52 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 22:46:52 - QAInterface - ERROR - Erro ao processar a palavra 'Orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:46:56 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 22:47:00 - root - INFO - Logging configurado com sucesso.
+2024-09-22 22:47:00 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 22:47:00 - Main - WARNING - Icône 'assets\logo_icon.ico' não encontrado. Continuando sem ícone.
+2024-09-22 22:47:00 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 22:47:00 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 22:47:00 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 22:47:00 - TaskManager - INFO - TaskManager inicializado.
+2024-09-22 22:47:05 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 22:47:05 - QAInterface - ERROR - Erro ao processar a palavra 'Orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 22:49:46 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 23:00:19 - root - INFO - Logging configurado com sucesso.
+2024-09-22 23:00:19 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 23:00:19 - Main - INFO - Icône carregado a partir de 'assets\logo_icon.ico'.
+2024-09-22 23:00:19 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 23:00:19 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 23:00:19 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:00:19 - TaskManager - INFO - TaskManager inicializado com sucesso.
+2024-09-22 23:00:28 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 23:00:28 - QAInterface - ERROR - Erro ao processar a palavra 'Orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:00:38 - QAInterface - INFO - Importando dicionário a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv' para o idioma 'en'.
+2024-09-22 23:00:38 - TaskManager - INFO - Importando dicionário a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'. Idioma: 'en'.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Palavra 'orange' já existe no idioma 'en'. Ignorada durante a importação.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922230038', 'data/language_data.json.backup.20240922230038'.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'. 0 palavras adicionadas, 1 palavras ignoradas.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-22 23:00:38 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após importação.
+2024-09-22 23:00:38 - TaskManager - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'.
+2024-09-22 23:00:39 - QAInterface - INFO - Dicionário importado com sucesso a partir de 'C:/Users/GabrielRocca/Downloads/test_import_dictionary.csv'.
+2024-09-22 23:00:39 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 23:00:39 - QAInterface - ERROR - Erro ao processar a palavra 'Orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:00:46 - QAInterface - INFO - Buscando definição para a palavra: 'orange' no idioma: 'en'
+2024-09-22 23:00:46 - QAInterface - ERROR - Erro ao processar a palavra 'orange': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:00:55 - QAInterface - INFO - Buscando definição para a palavra: 'car' no idioma: 'en'
+2024-09-22 23:00:55 - QAInterface - ERROR - Erro ao processar a palavra 'car': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:00:59 - QAInterface - INFO - Buscando definição para a palavra: 'apple' no idioma: 'en'
+2024-09-22 23:00:59 - QAInterface - ERROR - Erro ao processar a palavra 'apple': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:01:04 - TaskManager - INFO - Tentando definir o idioma para 'pt'.
+2024-09-22 23:01:04 - DictionaryManager - INFO - Idioma atual definido para 'pt'.
+2024-09-22 23:01:04 - DefinitionModule - INFO - Idioma definido para 'pt'.
+2024-09-22 23:01:04 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:01:04 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-22 23:01:04 - TaskManager - INFO - Idioma definido para 'pt' com sucesso.
+2024-09-22 23:01:04 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-22 23:01:10 - QAInterface - INFO - Buscando definição para a palavra: 'maçã' no idioma: 'pt'
+2024-09-22 23:01:10 - QAInterface - ERROR - Erro ao processar a palavra 'maçã': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:01:14 - QAInterface - INFO - Buscando definição para a palavra: 'Maçã' no idioma: 'pt'
+2024-09-22 23:01:14 - QAInterface - ERROR - Erro ao processar a palavra 'Maçã': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:01:34 - QAInterface - INFO - Exportando dicionário para 'C:/Users/GabrielRocca/Downloads/dictionary.csv' no idioma 'pt'.
+2024-09-22 23:01:34 - TaskManager - INFO - Exportando dicionário para CSV. Idioma: 'pt'.
+2024-09-22 23:01:34 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:01:34 - TaskManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:01:35 - QAInterface - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:02:01 - QAInterface - INFO - Buscando definição para a palavra: 'Carro' no idioma: 'pt'
+2024-09-22 23:02:01 - QAInterface - ERROR - Erro ao processar a palavra 'Carro': TaskManager.process_question() takes 2 positional arguments but 3 were given
+2024-09-22 23:03:26 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 23:46:43 - root - INFO - Logging configurado com sucesso.
+2024-09-22 23:46:43 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 23:46:43 - Main - INFO - Ícone carregado a partir de 'assets\logo_icon.ico'.
+2024-09-22 23:46:43 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 23:46:43 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 23:46:43 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:46:43 - TaskManager - INFO - TaskManager inicializado com sucesso.
+2024-09-22 23:47:03 - QAInterface - INFO - Buscando definição para a palavra: 'Maçã' no idioma: 'en'
+2024-09-22 23:47:03 - TaskManager - INFO - Processando a palavra: 'Maçã' no idioma 'en'.
+2024-09-22 23:47:03 - DictionaryManager - INFO - A palavra 'maçã' não foi encontrada no idioma 'en'.
+2024-09-22 23:47:03 - TaskManager - WARNING - Palavra 'Maçã' não encontrada no dicionário.
+2024-09-22 23:47:09 - QAInterface - INFO - Buscando definição para a palavra: 'Apple' no idioma: 'en'
+2024-09-22 23:47:09 - TaskManager - INFO - Processando a palavra: 'Apple' no idioma 'en'.
+2024-09-22 23:47:09 - DictionaryManager - INFO - Definição encontrada para a palavra 'apple' no idioma 'en'.
+2024-09-22 23:47:09 - ConfidenceModule - INFO - Confiança calculada: 38.00% (Definição: 12 palavras, Exemplo: 7 palavras).
+2024-09-22 23:47:09 - QAInterface - INFO - Definição e exemplo exibidos para 'Apple'.
+2024-09-22 23:47:13 - QAInterface - INFO - Buscando definição para a palavra: 'Car' no idioma: 'en'
+2024-09-22 23:47:13 - TaskManager - INFO - Processando a palavra: 'Car' no idioma 'en'.
+2024-09-22 23:47:13 - DictionaryManager - INFO - Definição encontrada para a palavra 'car' no idioma 'en'.
+2024-09-22 23:47:13 - ConfidenceModule - INFO - Confiança calculada: 42.00% (Definição: 13 palavras, Exemplo: 8 palavras).
+2024-09-22 23:47:13 - QAInterface - INFO - Definição e exemplo exibidos para 'Car'.
+2024-09-22 23:47:18 - QAInterface - INFO - Buscando definição para a palavra: 'Orange' no idioma: 'en'
+2024-09-22 23:47:18 - TaskManager - INFO - Processando a palavra: 'Orange' no idioma 'en'.
+2024-09-22 23:47:18 - DictionaryManager - INFO - Definição encontrada para a palavra 'orange' no idioma 'en'.
+2024-09-22 23:47:18 - ConfidenceModule - INFO - Confiança calculada: 34.00% (Definição: 10 palavras, Exemplo: 7 palavras).
+2024-09-22 23:47:18 - QAInterface - INFO - Definição e exemplo exibidos para 'Orange'.
+2024-09-22 23:47:22 - TaskManager - INFO - Tentando definir o idioma para 'pt'.
+2024-09-22 23:47:22 - DictionaryManager - INFO - Idioma atual definido para 'pt'.
+2024-09-22 23:47:22 - DefinitionModule - INFO - Idioma definido para 'pt'.
+2024-09-22 23:47:22 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:47:22 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-22 23:47:22 - TaskManager - INFO - Idioma definido para 'pt' com sucesso.
+2024-09-22 23:47:22 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-22 23:47:27 - QAInterface - INFO - Buscando definição para a palavra: 'Maçã' no idioma: 'pt'
+2024-09-22 23:47:27 - TaskManager - INFO - Processando a palavra: 'Maçã' no idioma 'pt'.
+2024-09-22 23:47:27 - DictionaryManager - INFO - Definição encontrada para a palavra 'maçã' no idioma 'pt'.
+2024-09-22 23:47:27 - ConfidenceModule - INFO - Confiança calculada: 40.00% (Definição: 11 palavras, Exemplo: 9 palavras).
+2024-09-22 23:47:27 - QAInterface - INFO - Definição e exemplo exibidos para 'Maçã'.
+2024-09-22 23:47:29 - QAInterface - INFO - Iniciando consulta por voz.
+2024-09-22 23:47:29 - QAInterface - INFO - Esperando reconhecimento de fala...
+2024-09-22 23:47:29 - TaskManager - INFO - Iniciando reconhecimento de fala.
+2024-09-22 23:47:29 - SpeechModule - INFO - Aguardando fala do usuário...
+2024-09-22 23:47:37 - QAInterface - INFO - Iniciando consulta por voz.
+2024-09-22 23:47:37 - QAInterface - INFO - Esperando reconhecimento de fala...
+2024-09-22 23:47:37 - TaskManager - INFO - Iniciando reconhecimento de fala.
+2024-09-22 23:47:37 - SpeechModule - INFO - Aguardando fala do usuário...
+2024-09-22 23:47:43 - QAInterface - INFO - Buscando definição para a palavra: 'Laranja' no idioma: 'pt'
+2024-09-22 23:47:43 - TaskManager - INFO - Processando a palavra: 'Laranja' no idioma 'pt'.
+2024-09-22 23:47:43 - DictionaryManager - INFO - A palavra 'laranja' não foi encontrada no idioma 'pt'.
+2024-09-22 23:47:43 - TaskManager - WARNING - Palavra 'Laranja' não encontrada no dicionário.
+2024-09-22 23:47:48 - DictionaryManager - INFO - A palavra 'laranja' não foi encontrada no idioma 'pt'.
+2024-09-22 23:47:49 - QAInterface - INFO - Buscando definição automática para 'laranja'.
+2024-09-22 23:47:49 - DictionaryManager - INFO - Buscando definição para a palavra 'laranja' via API.
+2024-09-22 23:47:50 - DictionaryManager - WARNING - Definição não encontrada para a palavra 'laranja' no idioma 'pt'.
+2024-09-22 23:47:50 - DictionaryManager - WARNING - Definição e exemplo não encontrados para 'laranja'. Necessário adicionar manualmente.
+2024-09-22 23:47:50 - QAInterface - INFO - Definição automática não disponível para 'laranja'. Solicitando entrada manual.
+2024-09-22 23:48:06 - QAInterface - INFO - Adicionando palavra 'laranja' manualmente.
+2024-09-22 23:48:06 - DictionaryManager - INFO - Palavra 'laranja' adicionada manualmente ao idioma 'pt' com sucesso.
+2024-09-22 23:48:06 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922234806', 'data/language_data.json.backup.20240922234806'.
+2024-09-22 23:48:06 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 23:48:06 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 23:48:06 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 23:48:06 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 23:48:06 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-22 23:48:06 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'laranja' manualmente.
+2024-09-22 23:48:07 - QAInterface - INFO - Palavra 'laranja' adicionada com sucesso manualmente.
+2024-09-22 23:48:07 - QAInterface - INFO - Buscando definição para a palavra: 'Laranja' no idioma: 'pt'
+2024-09-22 23:48:07 - TaskManager - INFO - Processando a palavra: 'Laranja' no idioma 'pt'.
+2024-09-22 23:48:07 - DictionaryManager - INFO - Definição encontrada para a palavra 'laranja' no idioma 'pt'.
+2024-09-22 23:48:07 - ConfidenceModule - INFO - Confiança calculada: 10.00% (Definição: 1 palavras, Exemplo: 4 palavras).
+2024-09-22 23:48:07 - QAInterface - INFO - Definição e exemplo exibidos para 'Laranja'.
+2024-09-22 23:48:13 - TaskManager - INFO - Tentando definir o idioma para 'en'.
+2024-09-22 23:48:13 - DictionaryManager - INFO - Idioma atual definido para 'en'.
+2024-09-22 23:48:13 - DefinitionModule - INFO - Idioma definido para 'en'.
+2024-09-22 23:48:13 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:48:13 - SpeechModule - INFO - Idioma de voz definido para en.
+2024-09-22 23:48:13 - TaskManager - INFO - Idioma definido para 'en' com sucesso.
+2024-09-22 23:48:13 - QAInterface - INFO - Idioma alterado para 'en'.
+2024-09-22 23:48:18 - QAInterface - INFO - Buscando definição para a palavra: 'orange' no idioma: 'en'
+2024-09-22 23:48:18 - TaskManager - INFO - Processando a palavra: 'orange' no idioma 'en'.
+2024-09-22 23:48:18 - DictionaryManager - INFO - Definição encontrada para a palavra 'orange' no idioma 'en'.
+2024-09-22 23:48:18 - ConfidenceModule - INFO - Confiança calculada: 34.00% (Definição: 10 palavras, Exemplo: 7 palavras).
+2024-09-22 23:48:18 - QAInterface - INFO - Definição e exemplo exibidos para 'orange'.
+2024-09-22 23:48:26 - QAInterface - INFO - Exportando dicionário para 'C:/Users/GabrielRocca/Downloads/dictionary.csv' no idioma 'en'.
+2024-09-22 23:48:26 - TaskManager - INFO - Exportando dicionário para CSV. Idioma: 'en'.
+2024-09-22 23:48:26 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:48:26 - TaskManager - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:48:28 - QAInterface - INFO - Dicionário exportado com sucesso para 'C:/Users/GabrielRocca/Downloads/dictionary.csv'.
+2024-09-22 23:48:55 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-22 23:50:20 - root - INFO - Logging configurado com sucesso.
+2024-09-22 23:50:20 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 23:50:21 - Main - INFO - Ícone carregado a partir de 'assets\logo_icon.ico'.
+2024-09-22 23:50:21 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 23:50:21 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 23:50:21 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:50:21 - TaskManager - INFO - TaskManager inicializado com sucesso.
+2024-09-22 23:50:34 - root - INFO - Logging configurado com sucesso.
+2024-09-22 23:50:34 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-22 23:50:34 - Main - INFO - Ícone carregado a partir de 'assets\logo_icon.ico'.
+2024-09-22 23:50:34 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-22 23:50:34 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-22 23:50:34 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:50:34 - TaskManager - INFO - TaskManager inicializado com sucesso.
+2024-09-22 23:50:48 - TaskManager - INFO - Tentando definir o idioma para 'pt'.
+2024-09-22 23:50:48 - DictionaryManager - INFO - Idioma atual definido para 'pt'.
+2024-09-22 23:50:48 - DefinitionModule - INFO - Idioma definido para 'pt'.
+2024-09-22 23:50:48 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-22 23:50:48 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-22 23:50:48 - TaskManager - INFO - Idioma definido para 'pt' com sucesso.
+2024-09-22 23:50:48 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-22 23:50:54 - DictionaryManager - INFO - A palavra 'análise' não foi encontrada no idioma 'pt'.
+2024-09-22 23:50:56 - QAInterface - INFO - Buscando definição automática para 'análise'.
+2024-09-22 23:50:56 - DictionaryManager - INFO - Buscando definição para a palavra 'análise' via API.
+2024-09-22 23:50:56 - DictionaryManager - WARNING - Definição não encontrada para a palavra 'análise' no idioma 'pt'.
+2024-09-22 23:50:56 - DictionaryManager - WARNING - Definição e exemplo não encontrados para 'análise'. Necessário adicionar manualmente.
+2024-09-22 23:50:56 - QAInterface - INFO - Definição automática não disponível para 'análise'. Solicitando entrada manual.
+2024-09-22 23:51:59 - QAInterface - INFO - Adicionando palavra 'análise' manualmente.
+2024-09-22 23:51:59 - DictionaryManager - INFO - Palavra 'análise' adicionada manualmente ao idioma 'pt' com sucesso.
+2024-09-22 23:51:59 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240922235159', 'data/language_data.json.backup.20240922235159'.
+2024-09-22 23:51:59 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-22 23:51:59 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-22 23:51:59 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-22 23:51:59 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-22 23:51:59 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-22 23:51:59 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'análise' manualmente.
+2024-09-22 23:52:00 - QAInterface - INFO - Palavra 'análise' adicionada com sucesso manualmente.
+2024-09-22 23:52:06 - DictionaryManager - INFO - Definição encontrada para a palavra 'análise' no idioma 'pt'.
+2024-09-22 23:52:12 - QAInterface - INFO - Buscando definição para a palavra: 'Análise' no idioma: 'pt'
+2024-09-22 23:52:12 - TaskManager - INFO - Processando a palavra: 'Análise' no idioma 'pt'.
+2024-09-22 23:52:12 - DictionaryManager - INFO - Definição encontrada para a palavra 'análise' no idioma 'pt'.
+2024-09-22 23:52:12 - ConfidenceModule - INFO - Confiança calculada: 56.00% (Definição: 21 palavras, Exemplo: 7 palavras).
+2024-09-22 23:52:12 - QAInterface - INFO - Definição e exemplo exibidos para 'Análise'.
+2024-09-22 23:52:32 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-23 11:22:48 - root - INFO - Logging configurado com sucesso.
+2024-09-23 11:22:48 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-23 11:22:48 - Main - INFO - Ícone carregado a partir de 'assets\logo_icon.ico'.
+2024-09-23 11:22:48 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-23 11:22:48 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-23 11:22:48 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-23 11:22:48 - TaskManager - INFO - TaskManager inicializado com sucesso.
+2024-09-23 11:22:55 - QAInterface - INFO - Buscando definição para a palavra: 'Apple' no idioma: 'en'
+2024-09-23 11:22:55 - TaskManager - INFO - Processando a palavra: 'Apple' no idioma 'en'.
+2024-09-23 11:22:55 - DictionaryManager - INFO - Definição encontrada para a palavra 'apple' no idioma 'en'.
+2024-09-23 11:22:55 - ConfidenceModule - INFO - Confiança calculada: 38.00% (Definição: 12 palavras, Exemplo: 7 palavras).
+2024-09-23 11:22:55 - QAInterface - INFO - Definição e exemplo exibidos para 'Apple'.
+2024-09-23 11:23:00 - TaskManager - INFO - Tentando definir o idioma para 'pt'.
+2024-09-23 11:23:00 - DictionaryManager - INFO - Idioma atual definido para 'pt'.
+2024-09-23 11:23:00 - DefinitionModule - INFO - Idioma definido para 'pt'.
+2024-09-23 11:23:00 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-23 11:23:00 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-23 11:23:00 - TaskManager - INFO - Idioma definido para 'pt' com sucesso.
+2024-09-23 11:23:00 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-23 11:23:05 - QAInterface - INFO - Buscando definição para a palavra: 'Análise' no idioma: 'pt'
+2024-09-23 11:23:05 - TaskManager - INFO - Processando a palavra: 'Análise' no idioma 'pt'.
+2024-09-23 11:23:05 - DictionaryManager - INFO - Definição encontrada para a palavra 'análise' no idioma 'pt'.
+2024-09-23 11:23:05 - ConfidenceModule - INFO - Confiança calculada: 56.00% (Definição: 21 palavras, Exemplo: 7 palavras).
+2024-09-23 11:23:05 - QAInterface - INFO - Definição e exemplo exibidos para 'Análise'.
+2024-09-23 11:23:35 - TaskManager - INFO - Tentando definir o idioma para 'en'.
+2024-09-23 11:23:35 - DictionaryManager - INFO - Idioma atual definido para 'en'.
+2024-09-23 11:23:35 - DefinitionModule - INFO - Idioma definido para 'en'.
+2024-09-23 11:23:35 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-23 11:23:35 - SpeechModule - INFO - Idioma de voz definido para en.
+2024-09-23 11:23:35 - TaskManager - INFO - Idioma definido para 'en' com sucesso.
+2024-09-23 11:23:35 - QAInterface - INFO - Idioma alterado para 'en'.
+2024-09-23 11:24:05 - DictionaryManager - INFO - A palavra 'avocato' não foi encontrada no idioma 'en'.
+2024-09-23 11:24:07 - QAInterface - INFO - Buscando definição automática para 'avocato'.
+2024-09-23 11:24:07 - DictionaryManager - INFO - Buscando definição para a palavra 'avocato' via API.
+2024-09-23 11:24:07 - DictionaryManager - WARNING - Definição não encontrada para a palavra 'avocato' no idioma 'en'.
+2024-09-23 11:24:07 - DictionaryManager - WARNING - Definição e exemplo não encontrados para 'avocato'. Necessário adicionar manualmente.
+2024-09-23 11:24:07 - QAInterface - INFO - Definição automática não disponível para 'avocato'. Solicitando entrada manual.
+2024-09-23 11:24:25 - DictionaryManager - INFO - A palavra 'avocado' não foi encontrada no idioma 'en'.
+2024-09-23 11:24:26 - QAInterface - INFO - Buscando definição automática para 'avocado'.
+2024-09-23 11:24:26 - DictionaryManager - INFO - Buscando definição para a palavra 'avocado' via API.
+2024-09-23 11:24:27 - DictionaryManager - INFO - Palavra 'avocado' adicionada ao idioma 'en' com sucesso.
+2024-09-23 11:24:27 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240923112427', 'data/language_data.json.backup.20240923112427'.
+2024-09-23 11:24:27 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-23 11:24:27 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-23 11:24:27 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-23 11:24:27 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-23 11:24:27 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-23 11:24:27 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'avocado'.
+2024-09-23 11:24:30 - QAInterface - INFO - Palavra 'avocado' adicionada com sucesso via API.
+2024-09-23 11:24:33 - QAInterface - INFO - Buscando definição para a palavra: 'Avocado' no idioma: 'en'
+2024-09-23 11:24:33 - TaskManager - INFO - Processando a palavra: 'Avocado' no idioma 'en'.
+2024-09-23 11:24:33 - DictionaryManager - INFO - Definição encontrada para a palavra 'avocado' no idioma 'en'.
+2024-09-23 11:24:33 - ConfidenceModule - INFO - Confiança calculada: 30.00% (Definição: 12 palavras, Exemplo: 3 palavras).
+2024-09-23 11:24:33 - QAInterface - INFO - Definição e exemplo exibidos para 'Avocado'.
+2024-09-23 11:24:50 - DictionaryManager - INFO - A palavra 'analysis' não foi encontrada no idioma 'en'.
+2024-09-23 11:24:52 - QAInterface - INFO - Buscando definição automática para 'analysis'.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Buscando definição para a palavra 'analysis' via API.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Palavra 'analysis' adicionada ao idioma 'en' com sucesso.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240923112452', 'data/language_data.json.backup.20240923112452'.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-23 11:24:52 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'analysis'.
+2024-09-23 11:24:53 - QAInterface - INFO - Palavra 'analysis' adicionada com sucesso via API.
+2024-09-23 11:24:59 - QAInterface - INFO - Buscando definição para a palavra: 'Analysis' no idioma: 'en'
+2024-09-23 11:24:59 - TaskManager - INFO - Processando a palavra: 'Analysis' no idioma 'en'.
+2024-09-23 11:24:59 - DictionaryManager - INFO - Definição encontrada para a palavra 'analysis' no idioma 'en'.
+2024-09-23 11:24:59 - ConfidenceModule - INFO - Confiança calculada: 32.00% (Definição: 13 palavras, Exemplo: 3 palavras).
+2024-09-23 11:24:59 - QAInterface - INFO - Definição e exemplo exibidos para 'Analysis'.
+2024-09-23 11:25:23 - TaskManager - INFO - Tentando definir o idioma para 'pt'.
+2024-09-23 11:25:23 - DictionaryManager - INFO - Idioma atual definido para 'pt'.
+2024-09-23 11:25:23 - DefinitionModule - INFO - Idioma definido para 'pt'.
+2024-09-23 11:25:23 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-23 11:25:23 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-23 11:25:23 - TaskManager - INFO - Idioma definido para 'pt' com sucesso.
+2024-09-23 11:25:23 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-23 11:25:35 - QAInterface - INFO - Buscando definição para a palavra: 'Visualização' no idioma: 'pt'
+2024-09-23 11:25:35 - TaskManager - INFO - Processando a palavra: 'Visualização' no idioma 'pt'.
+2024-09-23 11:25:35 - DictionaryManager - INFO - A palavra 'visualização' não foi encontrada no idioma 'pt'.
+2024-09-23 11:25:35 - TaskManager - WARNING - Palavra 'Visualização' não encontrada no dicionário.
+2024-09-23 11:25:38 - DictionaryManager - INFO - A palavra 'visualização' não foi encontrada no idioma 'pt'.
+2024-09-23 11:25:39 - QAInterface - INFO - Buscando definição automática para 'visualização'.
+2024-09-23 11:25:39 - DictionaryManager - INFO - Buscando definição para a palavra 'visualização' via API.
+2024-09-23 11:25:40 - DictionaryManager - WARNING - Definição não encontrada para a palavra 'visualização' no idioma 'pt'.
+2024-09-23 11:25:40 - DictionaryManager - WARNING - Definição e exemplo não encontrados para 'visualização'. Necessário adicionar manualmente.
+2024-09-23 11:25:40 - QAInterface - INFO - Definição automática não disponível para 'visualização'. Solicitando entrada manual.
+2024-09-23 11:26:41 - QAInterface - INFO - Adicionando palavra 'visualização' manualmente.
+2024-09-23 11:26:41 - DictionaryManager - INFO - Palavra 'visualização' adicionada manualmente ao idioma 'pt' com sucesso.
+2024-09-23 11:26:41 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20240923112641', 'data/language_data.json.backup.20240923112641'.
+2024-09-23 11:26:41 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-09-23 11:26:41 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-09-23 11:26:41 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-09-23 11:26:41 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-09-23 11:26:41 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-09-23 11:26:41 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'visualização' manualmente.
+2024-09-23 11:26:42 - QAInterface - INFO - Palavra 'visualização' adicionada com sucesso manualmente.
+2024-09-23 11:26:42 - QAInterface - INFO - Buscando definição para a palavra: 'Visualização' no idioma: 'pt'
+2024-09-23 11:26:42 - TaskManager - INFO - Processando a palavra: 'Visualização' no idioma 'pt'.
+2024-09-23 11:26:42 - DictionaryManager - INFO - Definição encontrada para a palavra 'visualização' no idioma 'pt'.
+2024-09-23 11:26:42 - ConfidenceModule - INFO - Confiança calculada: 44.00% (Definição: 15 palavras, Exemplo: 7 palavras).
+2024-09-23 11:26:42 - QAInterface - INFO - Definição e exemplo exibidos para 'Visualização'.
+2024-09-23 11:27:36 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-09-25 10:34:58 - root - INFO - Logging configurado com sucesso.
+2024-09-25 10:34:58 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-09-25 10:34:58 - Main - INFO - Ícone carregado a partir de 'assets\logo_icon.ico'.
+2024-09-25 10:34:58 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-09-25 10:34:58 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-09-25 10:34:58 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-25 10:34:58 - TaskManager - INFO - TaskManager inicializado com sucesso.
+2024-09-25 10:35:06 - TaskManager - INFO - Tentando definir o idioma para 'pt'.
+2024-09-25 10:35:06 - DictionaryManager - INFO - Idioma atual definido para 'pt'.
+2024-09-25 10:35:06 - DefinitionModule - INFO - Idioma definido para 'pt'.
+2024-09-25 10:35:06 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-09-25 10:35:06 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-09-25 10:35:06 - TaskManager - INFO - Idioma definido para 'pt' com sucesso.
+2024-09-25 10:35:06 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-09-25 10:35:23 - QAInterface - INFO - Buscando definição para a palavra: 'Taxa de engajamento' no idioma: 'pt'
+2024-09-25 10:35:23 - TaskManager - INFO - Processando a palavra: 'Taxa de engajamento' no idioma 'pt'.
+2024-09-25 10:35:23 - DictionaryManager - INFO - A palavra 'taxa de engajamento' não foi encontrada no idioma 'pt'.
+2024-09-25 10:35:23 - TaskManager - WARNING - Palavra 'Taxa de engajamento' não encontrada no dicionário.
+2024-09-25 10:35:35 - DictionaryManager - INFO - A palavra 'engajamento' não foi encontrada no idioma 'pt'.
+2024-09-25 10:35:44 - QAInterface - INFO - Buscando definição automática para 'engajamento'.
+2024-09-25 10:35:44 - DictionaryManager - INFO - Buscando definição para a palavra 'engajamento' via API.
+2024-09-25 10:35:45 - DictionaryManager - WARNING - Definição não encontrada para a palavra 'engajamento' no idioma 'pt'.
+2024-09-25 10:35:45 - DictionaryManager - WARNING - Definição e exemplo não encontrados para 'engajamento'. Necessário adicionar manualmente.
+2024-09-25 10:35:45 - QAInterface - INFO - Definição automática não disponível para 'engajamento'. Solicitando entrada manual.
+2024-09-25 10:36:11 - QAInterface - INFO - Buscando definição para a palavra: 'Maçã' no idioma: 'pt'
+2024-09-25 10:36:11 - TaskManager - INFO - Processando a palavra: 'Maçã' no idioma 'pt'.
+2024-09-25 10:36:11 - DictionaryManager - INFO - Definição encontrada para a palavra 'maçã' no idioma 'pt'.
+2024-09-25 10:36:11 - ConfidenceModule - INFO - Confiança calculada: 40.00% (Definição: 11 palavras, Exemplo: 9 palavras).
+2024-09-25 10:36:11 - QAInterface - INFO - Definição e exemplo exibidos para 'Maçã'.
+2024-09-25 10:37:51 - Main - INFO - Encerrando o A.U.R.E.L.I.O.
+2024-10-11 18:14:22 - root - INFO - Logging configurado com sucesso.
+2024-10-11 18:14:22 - Main - INFO - Iniciando o A.U.R.E.L.I.O.
+2024-10-11 18:14:22 - Main - INFO - Ícone carregado a partir de 'assets\logo_icon.ico'.
+2024-10-11 18:14:22 - DictionaryManager - INFO - Dados do dicionário e idiomas carregados com sucesso.
+2024-10-11 18:14:22 - DefinitionModule - INFO - Dados de idiomas carregados com sucesso.
+2024-10-11 18:14:22 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-10-11 18:14:22 - TaskManager - INFO - TaskManager inicializado com sucesso.
+2024-10-11 18:14:36 - QAInterface - INFO - Buscando definição para a palavra: 'purple' no idioma: 'en'
+2024-10-11 18:14:36 - TaskManager - INFO - Processando a palavra: 'purple' no idioma 'en'.
+2024-10-11 18:14:36 - DictionaryManager - INFO - A palavra 'purple' não foi encontrada no idioma 'en'.
+2024-10-11 18:14:36 - TaskManager - WARNING - Palavra 'purple' não encontrada no dicionário.
+2024-10-11 18:14:44 - DictionaryManager - INFO - A palavra 'purple' não foi encontrada no idioma 'en'.
+2024-10-11 18:14:46 - QAInterface - INFO - Buscando definição automática para 'purple'.
+2024-10-11 18:14:46 - DictionaryManager - INFO - Buscando definição para a palavra 'purple' via API.
+2024-10-11 18:14:47 - DictionaryManager - INFO - Palavra 'purple' adicionada ao idioma 'en' com sucesso.
+2024-10-11 18:14:47 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20241011181447', 'data/language_data.json.backup.20241011181447'.
+2024-10-11 18:14:47 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-10-11 18:14:47 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-10-11 18:14:47 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-10-11 18:14:47 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-10-11 18:14:47 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-10-11 18:14:47 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'purple'.
+2024-10-11 18:14:50 - QAInterface - INFO - Palavra 'purple' adicionada com sucesso via API.
+2024-10-11 18:15:02 - QAInterface - INFO - Buscando definição para a palavra: 'purple' no idioma: 'en'
+2024-10-11 18:15:02 - TaskManager - INFO - Processando a palavra: 'purple' no idioma 'en'.
+2024-10-11 18:15:02 - DictionaryManager - INFO - Definição encontrada para a palavra 'purple' no idioma 'en'.
+2024-10-11 18:15:02 - ConfidenceModule - INFO - Confiança calculada: 32.00% (Definição: 13 palavras, Exemplo: 3 palavras).
+2024-10-11 18:15:02 - QAInterface - INFO - Definição e exemplo exibidos para 'purple'.
+2024-10-11 18:15:12 - TaskManager - INFO - Tentando definir o idioma para 'pt'.
+2024-10-11 18:15:12 - DictionaryManager - INFO - Idioma atual definido para 'pt'.
+2024-10-11 18:15:12 - DefinitionModule - INFO - Idioma definido para 'pt'.
+2024-10-11 18:15:12 - DefinitionModule - INFO - Dicionário carregado com sucesso.
+2024-10-11 18:15:12 - SpeechModule - INFO - Idioma de voz definido para pt.
+2024-10-11 18:15:12 - TaskManager - INFO - Idioma definido para 'pt' com sucesso.
+2024-10-11 18:15:12 - QAInterface - INFO - Idioma alterado para 'pt'.
+2024-10-11 18:15:18 - QAInterface - INFO - Buscando definição para a palavra: 'roxo' no idioma: 'pt'
+2024-10-11 18:15:18 - TaskManager - INFO - Processando a palavra: 'roxo' no idioma 'pt'.
+2024-10-11 18:15:18 - DictionaryManager - INFO - A palavra 'roxo' não foi encontrada no idioma 'pt'.
+2024-10-11 18:15:18 - TaskManager - WARNING - Palavra 'roxo' não encontrada no dicionário.
+2024-10-11 18:15:23 - DictionaryManager - INFO - A palavra 'roxo' não foi encontrada no idioma 'pt'.
+2024-10-11 18:15:25 - QAInterface - INFO - Buscando definição automática para 'roxo'.
+2024-10-11 18:15:25 - DictionaryManager - INFO - Buscando definição para a palavra 'roxo' via API.
+2024-10-11 18:15:25 - DictionaryManager - WARNING - Definição não encontrada para a palavra 'roxo' no idioma 'pt'.
+2024-10-11 18:15:25 - DictionaryManager - WARNING - Definição e exemplo não encontrados para 'roxo'. Necessário adicionar manualmente.
+2024-10-11 18:15:25 - QAInterface - INFO - Definição automática não disponível para 'roxo'. Solicitando entrada manual.
+2024-10-11 18:15:52 - QAInterface - INFO - Adicionando palavra 'roxo' manualmente.
+2024-10-11 18:15:52 - DictionaryManager - INFO - Palavra 'roxo' adicionada manualmente ao idioma 'pt' com sucesso.
+2024-10-11 18:15:52 - DictionaryManager - INFO - Backups criados: 'data/dictionary_data.json.backup.20241011181552', 'data/language_data.json.backup.20241011181552'.
+2024-10-11 18:15:52 - DictionaryManager - INFO - Dados do dicionário e idiomas salvos com sucesso.
+2024-10-11 18:15:52 - DictionaryManager - INFO - Arquivo JSON 'data/dictionary_data.json' é válido.
+2024-10-11 18:15:52 - DictionaryManager - INFO - Arquivo JSON 'data/language_data.json' é válido.
+2024-10-11 18:15:52 - DictionaryManager - INFO - Validação dos arquivos JSON concluída com sucesso.
+2024-10-11 18:15:52 - DictionaryManager - INFO - Dicionário exportado com sucesso para 'data/export/dictionary_export.csv'.
+2024-10-11 18:15:52 - DictionaryManager - INFO - Arquivo de exportação 'data/export/dictionary_export.csv' atualizado após adicionar 'roxo' manualmente.
+2024-10-11 18:15:53 - QAInterface - INFO - Palavra 'roxo' adicionada com sucesso manualmente.
+2024-10-11 18:15:53 - QAInterface - INFO - Buscando definição para a palavra: 'roxo' no idioma: 'pt'
+2024-10-11 18:15:53 - TaskManager - INFO - Processando a palavra: 'roxo' no idioma 'pt'.
+2024-10-11 18:15:53 - DictionaryManager - INFO - Definição encontrada para a palavra 'roxo' no idioma 'pt'.
+2024-10-11 18:15:53 - ConfidenceModule - INFO - Confiança calculada: 22.00% (Definição: 7 palavras, Exemplo: 4 palavras).
+2024-10-11 18:15:53 - QAInterface - INFO - Definição e exemplo exibidos para 'roxo'.
+2024-10-11 18:23:51 - Main - INFO - Encerrando o A.U.R.E.L.I.O.

@@ -1,0 +1,100 @@
+{
+    "en": {
+        "apple": {
+            "definition": "A round fruit with red or green skin and a whitish interior.",
+            "part_of_speech": "noun",
+            "example": "I ate a delicious apple for breakfast."
+        },
+        "car": {
+            "definition": "A road vehicle, typically with four wheels, powered by an internal combustion engine.",
+            "part_of_speech": "noun",
+            "example": "She drives her car to work every day."
+        },
+        "grape": {
+            "definition": "A small, round, smooth-skinned edible fruit, usually purple, red, or green, that grows in bunches on vines of genus Vitis.",
+            "part_of_speech": "noun",
+            "example": "Exemplo não disponível."
+        },
+        "banana": {
+            "definition": "An elongated curved tropical fruit that grows in bunches and has a creamy flesh and a smooth skin.",
+            "part_of_speech": "noun",
+            "example": "Exemplo não disponível."
+        },
+        "orange": {
+            "definition": "A round fruit with orange skin and a citric flavour.",
+            "part_of_speech": "noun",
+            "example": "I ate a delicious orange after lunch."
+        },
+        "avocado": {
+            "definition": "The large, usually yellowish-green or black, pulpy fruit of the avocado tree.",
+            "part_of_speech": "noun",
+            "example": "Exemplo não disponível."
+        },
+        "analysis": {
+            "definition": "Decomposition into components in order to study (a complex thing, concept, theory etc.).",
+            "part_of_speech": "noun",
+            "example": "Exemplo não disponível."
+        },
+        "purple": {
+            "definition": "A colour/color that is a dark blend of red and blue; dark magenta.",
+            "part_of_speech": "noun",
+            "example": "Exemplo não disponível."
+        }
+    },
+    "pt": {
+        "maçã": {
+            "definition": "Uma fruta redonda com casca vermelha ou verde e interior esbranquiçado.",
+            "part_of_speech": "substantivo",
+            "example": "Eu comi uma maçã deliciosa no café da manhã."
+        },
+        "carro": {
+            "definition": "Um veículo rodoviário, normalmente com quatro rodas, movido por um motor de combustão interna.",
+            "part_of_speech": "substantivo",
+            "example": "Ela dirige o carro para o trabalho todos os dias."
+        },
+        "laranja": {
+            "definition": "Laranja",
+            "part_of_speech": "Substantivo",
+            "example": "Essa laranja está azeda!"
+        },
+        "análise": {
+            "definition": "Análise consiste no exame detalhado sobre determinada matéria ou assunto, observando todos os pormenores que formam cada parte de um todo",
+            "part_of_speech": "Substantivo",
+            "example": "Terminou a análise que o chefe pediu?"
+        },
+        "visualização": {
+            "definition": "Visualização é uma métrica usada para mensurar o potencial de alcance de divulgações em canais",
+            "part_of_speech": "Substantivo",
+            "example": "Quantas visualizações a página de liderança teve?"
+        },
+        "roxo": {
+            "definition": "roxo é a cor do meu pau",
+            "part_of_speech": "adjetivo",
+            "example": "meu pau é roxo"
+        }
+    },
+    "es": {
+        "manzana": {
+            "definition": "Una fruta redonda con piel roja o verde y un interior blanquecino.",
+            "part_of_speech": "sustantivo",
+            "example": "Me comí una manzana deliciosa en el desayuno."
+        },
+        "coche": {
+            "definition": "Un vehículo de carretera, normalmente con cuatro ruedas, propulsado por un motor de combustión interna.",
+            "part_of_speech": "sustantivo",
+            "example": "Ella conduce su coche al trabajo todos los días."
+        }
+    },
+    "fr": {
+        "pomme": {
+            "definition": "Un fruit rond avec une peau rouge ou verte et un intérieur blanchâtre.",
+            "part_of_speech": "nom",
+            "example": "J'ai mangé une pomme délicieuse au petit-déjeuner."
+        },
+        "voiture": {
+            "definition": "Un véhicule routier, généralement avec quatre roues, propulsé par un moteur à combustion interne.",
+            "part_of_speech": "nom",
+            "example": "Elle conduit sa voiture au travail tous les jours."
+        }
+    }
+}
